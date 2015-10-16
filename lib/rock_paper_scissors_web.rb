@@ -27,10 +27,6 @@ class RockPaperScissors < Sinatra::Base
     erb :start
   end
 
-  get '/number_of_players' do #Do I need this?? Seems to break if I take it out?
-    erb :number_of_players
-  end
-
   get '/one_player_game' do
     @user_name = session[:name]
     if session[:version] == 'RPSLS'
