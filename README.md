@@ -1,6 +1,6 @@
 # RockPaperScissors
 
-A Rock Paper Scissors game built using Ruby and Sinatra, and tested with RSpec and Capybara.  There are two versions of the game: classic Rock Paper Scissors, and the extended Rock Paper Scissors Lizard Spock.  There is also a single player version of a two player version.
+A Rock Paper Scissors game built using Ruby and Sinatra, and tested with RSpec and Capybara.  There are two versions of the game: classic Rock Paper Scissors, and the extended Rock Paper Scissors Lizard Spock.  A user can also choose single player or two player mode.
 
 ## Getting Started
 
